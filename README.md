@@ -4,15 +4,16 @@
 ---
 
 ## **Welcome to My World of Innovation** 🚀  
-Hi there! I'm **Siyabonga Jele**, a passionate and driven **Information Systems graduate** with a knack for solving real-world problems through technology. With a strong foundation in **AI, IoT, and software development**, I thrive in collaborative environments where innovation meets impact. My journey has taken me from South Africa to Germany, where I've honed my skills in **agile methodologies, AI solutions, and cross-cultural teamwork**.  
+Hi there! I'm **Siyabonga Jele**, a dynamic **Information Systems graduate** who bridges the gap between business and technology. I combine strong business acumen with technical expertise to deliver strategic solutions that drive organizational success. My journey from South Africa to Germany has equipped me with a unique perspective on both **business management and technological innovation**, allowing me to approach challenges with a holistic mindset. 
 
 ---
 
 ## **What I Bring to the Table** 💡  
-- **Technical Expertise**: Proficient in **Python, SQL, Azure DevOps, and IoT development**, with hands-on experience in building AI-driven solutions and IoT systems.  
-- **Agile Mindset**: Skilled in **Scrum methodologies**, requirements analysis, and delivering high-quality solutions in fast-paced environments.  
-- **Global Perspective**: Experienced in **international collaborations**, having worked on projects in Germany, Uganda, and South Africa.  
-- **Soft Skills**: Strong **communication, leadership, and problem-solving skills**, with a proven ability to work effectively in diverse teams.  
+- **Business Acumen**: Strong foundation in business management, strategic planning, and organizational behaviour through my BCom studies
+- **Strategic Thinking**: Ability to align technological solutions with business objectives and ROI
+- **Technical Expertise**: Proficient in **Python, SQL, Azure DevOps, and IoT development**
+- **Process Optimization**: Experience in business process analysis and improvement
+- **Global Perspective**: International experience in cross-cultural business environments 
 
 ---
 
@@ -23,12 +24,24 @@ Hi there! I'm **Siyabonga Jele**, a passionate and driven **Information Systems 
   - Courses: Global Supply Chain Management, Machine Learning, Business Application Re-Engineering  
 
 ### **Certifications & Short Courses**  
-- **Azure DevOps Fundamentals** – Udemy  
-- **ABSA iNkanyezi Programme** – IT Audit, Cyber Security, and Data Analysis (2024)  
+- **Microsoft Azure Fundamentals (az-900)** – Microsoft 
+- **ABSA iNkanyezi Programme** – IT Audit, Cyber Security, and Data Analysis (2024) 
+
+## **Professional Expertise** 🎯
+### **Business & Management**
+- Strategic Business Analysis
+- Project Management
+- Business Process Optimization
+- Risk Management
+- Financial Analysis
+- Supply Chain Management
+- Stakeholder Management
 
 ### **Key Projects**  
 - **AI-Powered Azure DevOps Assistant** – Developed an AI application integrated into Azure DevOps during my internship at **artiso solutions GmbH**, Germany.  
-- **IoT-Based Cold Chain Monitoring System** – Led an international team to design a Raspberry Pi-based solution for temperature-sensitive goods transportation.  
+- **IoT-Based Cold Chain Monitoring System** – Led an international team to design a Raspberry Pi-based solution for temperature-sensitive goods transportation. 
+- Engineered an IoT-based monitoring system for Ugandan fish exports, ensuring quality control during transportation.  
+- Collaborated with a cross-cultural team of 17 members to deliver innovative solutions. 
 - **Mayibuye Archives Digitization** – Contributed to the digital preservation of historical artifacts using 3D digitization and WordPress.  
 
 ---
@@ -37,11 +50,7 @@ Hi there! I'm **Siyabonga Jele**, a passionate and driven **Information Systems 
 ### **Researcher & Developer** – artiso solutions GmbH, Germany (2024)  
 - Conducted market research on AI technologies and customer support solutions.  
 - Developed and tested AI-based prototypes, ensuring alignment with business objectives.  
-- Utilized **Azure DevOps** for documentation and project management.  
-
-### **Developer** – Cold Chain Management Project (UWC-HNU-UMI Joint Venture)  
-- Engineered an IoT-based monitoring system for Ugandan fish exports, ensuring quality control during transportation.  
-- Collaborated with a cross-cultural team of 17 members to deliver innovative solutions.  
+- Utilized **Azure DevOps** for documentation and project management.    
 
 ### **Tutor** – University of the Western Cape (2023-2024)  
 - Taught and mentored students in **Introduction to the Economy and Business (IEB)** and **Quantitative Skills Foundation (QSF)**.  
